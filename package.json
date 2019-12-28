@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing-mocha-chai",
+  "version": "1.0.0",
+  "description": "Review testing with mocha & chai",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "gulp": "^4.0.2",
+    "gulp-mocha": "^7.0.2",
+    "gulp-util": "^3.0.8",
+    "sinon": "^8.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tonia Gonzalez",
+  "license": "ISC"
+}
