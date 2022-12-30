@@ -11,12 +11,12 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "gulp": "^4.0.2",
-    "gulp-mocha": "^7.0.2",
+    "gulp-mocha": "^8.0.0",
     "gulp-util": "^3.0.8",
     "sinon": "^8.0.1"
   },
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha"
